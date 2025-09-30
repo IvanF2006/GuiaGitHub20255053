@@ -1,1 +1,0 @@
-print("Version rama main")
